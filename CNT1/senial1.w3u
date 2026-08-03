@@ -1,0 +1,630 @@
+{
+  "name": "ROKU TV",
+  "author": "NUBE TV.com",
+"info": "ROKU TV ON LINE",
+  "url": "https://raw.githubusercontent.com/678190/mysky.w3u/main/senial1.w3u",
+"image": "https://i.gifer.com/origin/fa/fa4033861e6793adc56b7a231a2fd072.gif",
+  "groups": [
+{
+      "name": "SPANISH TV",
+      "image": "https://www.howtogeek.com/wp-content/uploads/2017/01/roku-rebooting.gif",
+      "stations": [
+{
+                                  "name": "📶UNIVISION 1 ",
+                    "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
+                    "url":"https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
+"referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
+
+
+
+
+    }, {
+                    "name": "📶TUDN USA 2025",
+                      "image": "https://btv.mx/posters/1724886491294.png",
+              "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+"referer":"",
+"userAgent":""
+    
+
+
+
+
+
+
+
+
+       }, {
+                    "name": "TUDN .. STREAM 11",
+                      "image": "https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp",
+  "url":"https://blogtorresmochas.blogspot.com/2020/09/univicion.html",
+                     "referer":"https://resources.blogblog.com/blogblog/data/res/2395151956-indie_compiled.js"
+               
+                         
+
+
+  
+       }, {
+                    "name": "TELEMUNDO USA STREAM 00",
+                      "image": "https://www.telegratishd.com/imge/telemundo51.png",
+ "url":"http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8",
+    "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
+                         
+
+                         
+
+                 }, {
+                    "name": "📶UNIVERSO LATINO",
+                      "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
+            "url":"https://frontillano.blogspot.com/2026/02/embed-daddy.html",
+ "EMBED":true
+
+                     
+     }, {
+                    "name": "TELEMUNDO USA",
+                      "image": "https://btv.mx/posters/1720843598393.png",
+  "url":"https://runginfect.net/embed/wemlne",
+                     "referer":"https://bolaloca.my/player/lib.js?10xsx"
+                            
+
+
+
+         }, {
+                    "name": "📶UNIMAS M",
+                      "image": "https://telelibree.com/img/unimas.png",
+                               "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ 
+         }, {
+                    "name": "📶GALAVISION",
+                      "image": "https://ligatv.iptv-vall.com/images/galavision.png",
+              "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ 
+         
+
+
+
+                }, 
+                { 
+                "name": "📶ESTRELLAS TV",
+                "image": "https://btv.mx/posters/1720840525130.png", 
+                "url": " https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8  ", 
+"EMBED":true
+
+
+
+         },
+                {
+                                     
+               "name": "📶LAS ESTRELLAS SENIAL MEX/ ",
+                    "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0b09469b863ba943590967bc25b9ed.webp",
+              "url": "http://190.102.120.20:8000/play/a035/index.m3u8?hls",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
+
+
+
+
+         },
+                {
+                                     
+               "name": "📶N+ NOTICIAS MEX",
+                    "image": "https://www.nmas.com.mx/assets/Logo/logo.png",
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/141",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ 
+         },
+                {
+                                     
+               "name": "📶ADN 40",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/04af7c5/2147483647/strip/true/crop/588x208+0+0/resize/130x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png",
+                                                                                     "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+"userAgent":""
+
+
+	 	        },
+                {
+                                     
+               "name": "📶CANAL 5 LAT",
+                    "image": "https://www.telegratishd.com/imge/canal5.png",
+  "url":"https://frontillano.blogspot.com/2026/05/hd-canal5.html",
+            "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"EMBED":true
+
+
+
+
+		 	        },
+                {
+                                     
+               "name": "📶AZTECA 7 MEX01",
+                    "image": "https://www.telegratishd.com/imge/azteca7.png",
+  "url":"https://frontillano.blogspot.com/2026/02/telce.html",
+ "EMBED":true
+   
+
+
+
+	 	        },
+                {
+                                     
+               "name": "📶DISTRITO COMEDIA",
+                    "image": "https://btv.mx/posters/1724209263135.png",
+                                                     "url": "http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
+ 	        },
+                {
+                                     
+               "name": "📶CARTOON NW",
+                    "image": "https://btv.mx/posters/1720836379577.png",
+                                                          "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/51",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ 
+
+
+                      },
+                {
+                    "name": "📶NATIONAL G. 2",
+                    "image": "https://www.telegratishd.com/imge/natgeo.webp",
+   "url":"http://181.118.153.15:8000/play/tb45/index.m3u8?hls",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+               
+
+      },
+                {
+                                     
+               "name": "📶DISCOVERY CH MEX",
+                    "image": "https://www.telegratishd.com/imge/discoverychannel.png",
+                                                      "url": "http://190.102.120.20:8000/play/a00j/index.m3u8?hls",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
+
+
+
+                  },
+                {
+                    "name": "📶HISTORY CH 1",
+                    "image": "https://www.telegratishd.com/imge/history.png",
+ "url":"http://181.118.150.27:8000/play/a00i/index.m3u8?hls",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+               
+
+
+              },
+                {
+                    "name": "📶HISTORY 2",
+                    "image": "https://btv.mx/posters/1724890124178.png",
+           "url":"http://190.102.120.20:8000/play/a01i/index.m3u8?hls",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+             
+ 
+                    },
+                {
+                    "name": "📶DISCOVERY ID!",
+                    "image": "https://www.telegratishd.com/imge/idinvestigation.png",
+                             "url": "http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8", 
+"referer":""
+
+
+                    },
+                {
+                    "name": "📶HGTV NEW CHANNEL",
+                    "image": "",
+                             "url": "http://181.118.153.15:8000/play/cs59/index.m3u8?hls", 
+"referer":""
+
+
+
+
+
+
+       },
+                {
+                    "name": "📶EL GOURMET",
+                    "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
+                                                     "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/115",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+       },
+                {
+                    "name": "📶TLC",
+                    "image": "https://www.tvporinternet2.com/imge/discoverytlc.png",
+                                                     "url": "http://38.134.250.110:8000/play/a00n/index.m3u8?hls",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+
+
+    }, {
+                  "name": "BEIN SPORT 11",
+                    "image": "https://logos.streamsites.eu/3536_beinsports_overview.png",
+  "url":"https://frontillano.blogspot.com/2025/10/hls-player-embed-basic-styling-to-make.html",
+ "EMBED":true
+
+
+ }, {
+                  "name": "FOX SPORT 2 MX",
+                    "image": "https://btv.mx/posters/1724884284139.png",
+                         "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=FOX_SPORES_2&country=mx",
+"referer":"https://frontillano.blogspot.com/2026/05/usa-network.html",
+"embed":true
+
+
+ }, {
+                  "name": "LIGA DE CAMPEONES DEPORTE1",
+                    "image": "https://www.telegratishd.com/imge/daznlaliga1.webp",
+                                                     "url": "https://frontillano.blogspot.com/2026/05/dazn-liga.html",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
+
+
+
+ }, {
+                  "name": "ESPN MX LAT",
+                    "image": "https://btv.mx/posters/1724883256326.png",
+         "url":"https://frontillano.blogspot.com/2026/05/espn.html",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"userAgent":""
+
+
+
+ 
+ 
+      }, {
+                  "name": "SPACE PELICULAS ECU",
+                    "image": "https://www.telegratishd.com/imge/space.webp",
+              "url": "http://38.134.250.110:8000/play/a007/index.m3u8?hls",
+               "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"                                    
+
+
+
+
+
+      }, {
+                  "name": "HBO 2",
+                    "image": "https://btv.mx/posters/1724852501490.png",
+                                                     "url": "http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"  
+
+
+
+
+
+
+
+      }, {
+                  "name": "HBO FAMILIA",
+                    "image": "https://btv.mx/posters/1750389849338.png",
+              "url": "http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
+"":""
+
+
+
+      }, {
+                  "name": "CINEMAX PELICULAS 1",
+                    "image": "https://www.telegratishd.com/imge/cinemax.png",
+        "url":"https://frontillano.blogspot.com/2022/01/reproindexhtml.html",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"EMBED":true
+
+
+
+      }, {
+                  "name": "GOLDEN EDGE",
+                    "image": "https://btv.mx/posters/1741915016570.png",
+                                                          "url": "http://190.11.225.124:5000/live/golden_hd/playlist.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+ 
+      
+
+
+  }, {
+                  "name": "UNIVERSAL CINEMA",
+                    "image": "https://www.telegratishd.com/imge/universalchannel.webp",
+                  "url": "https://frontillano.blogspot.com/2026/05/hd-universal-cine.html",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"EMBED":true
+
+
+
+
+
+        }, {
+                  "name": "FX",
+                    "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",
+                "url": "http://190.11.225.124:5000/live/fx_hd/playlist.m3u8",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"EMBED":true
+
+
+   }, {
+                  "name": "UNIVERSAL PREMIERE",
+                    "image": "https://www.tvplusgratis2.com/imge/universalpremiere.png",
+                "url": "https://frontillano.blogspot.com/2026/05/hd-universal-premiere.html",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"EMBED":true
+
+
+
+       }, {
+                  "name": "SONY BLACK LIST MOVIES",
+                    "image": "https://stmify.com/wp-content/uploads/2024/08/59-s.webp",
+          "url":"https://cdn.stmify.com/embed-free/jw/player.php?id=SONY_ONE_THE_BLACKLIST&country=es",
+"referer":"https://frontillano.blogspot.com/2026/05/mpd-xtrm-movies.html"
+
+	 
+ 
+   }, {
+                  "name": "CINE PREMIUM",
+                    "image": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",
+                  "url": "http://201.77.60.62:8002/play/a0nk/index.m3u8?hls",
+"referer":""
+
+
+   }, {
+                  "name": "HBO EXTREME COL",
+                    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png/v1/fill/w_1192,h_670,q_70,strp/hbo_xtreme_logo_by_doublekids07_ddpgt7p-pre.jpg",
+                  "url": "http://201.174.175.3:8000/play/a0y4/index.m3u8?hls",
+"referer":""
+
+
+
+
+
+
+
+      }, {
+                  "name": "PANICO CANAL TERROR 2",
+                    "image": "https://cdn.vaughnsoft.net/profile/1759256157/terror_mania.jpg",
+          "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv",
+"UserAgent":"Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F140.0.0.0+Safari%2F537.36",
+"referer":""
+	 
+ 
+
+      }, {
+                  "name": "PELICULA MANIA",
+                    "image": "https://cdn.vaughnsoft.net/profile/1776861247/peliculas_mania.jpg",
+          "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv",
+"UserAgent":"Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F140.0.0.0+Safari%2F537.36",
+"referer":""
+
+     
+                 
+
+
+
+
+             
+               
+                            
+  }, {
+                    "name": "Depelicula",
+                    "image": "https://www.tvporinternet2.com/imge/dpeliculaplus.png",
+                    "url": "http://181.118.150.27:8000/play/a00e/index.m3u8?hls",             
+               "referer":" "
+ 
+
+
+ }, {
+                    "name": "TELEHIT MX",
+                    "image": "https://www.telegratishd.com/imge/telehit.png",
+                                     "url": "http://190.102.120.20:8000/play/a03d/index.m3u8?hls",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+
+
+   }, {
+                    "name": "Azteca Music Videos",
+                    "image": "https://www.festiva2go.com/channels/logo/festiva-azteca-music-video.jpg",
+                    "url": "http://k4.usastreams.com:80/festivatelevision/AztecaMusicVideo/chunklist_w2010012192.m3u8",             
+               "referer":" "
+
+
+ }, {
+                    "name": "BANDA MAX SDMX",
+                    "image": "https://btv.mx/posters/1724880919544.png",
+                                                          "url": "http://181.118.153.15:8000/play/ui91/index.m3u8?hls",
+"referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+ 
+
+
+
+
+
+  
+ 
+     }
+         ]
+      },
+      { 
+         "name": "USA TV",
+         "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
+         "stations": [ 
+            { 
+
+                  "name": "USA NETWEST1",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=USA_NETWORK",
+"referer":"https://stmify.com/live-tv/usa-network/",
+"embed":true
+
+
+
+ }, {
+
+                  "name": "ENGLISH discovery",
+                      "image": "https://www.telegratishd.com/imge/discoverychannel.png",
+               "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+    
+
+     
+ }, {
+
+
+                  "name": "HISTORY CHANNEL1",
+                      "image": "https://www.telegratishd.com/imge/history.png",
+                         "url": "https://cdn.stmify.com/cignal/embed/history-hd",
+"referer":"https://cdn.stmify.com/cignal/live-tv/history-hd",
+"embed":true
+
+
+   }, {
+
+                  "name": "DISCOVERY ID",
+                      "image": "https://btv.mx/posters/1724891395400.png",
+               "url": "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/92",
+"userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt"
+    
+
+
+
+      }, {
+                    "name": "DISCOVERY TLC",
+                      "image": "https://btv.mx/posters/1724209016471.png",
+                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=TLC",
+"referer":"https://stmify.com/live-tv/tlc/",
+"embed":true
+
+     
+      }, {
+                    "name": "HGTV ENGLISH1",
+                      "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",
+                        "url": "https://cdn.stmify.com/embed-free/jw/player.php?id=HGTV",
+"referer":"https://stmify.com/live-tv/hgtv/",
+"embed":true
+
+
+  }, {
+                    "name": "TRU TV TVTAPP1",
+                      "image": "https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png",
+   "url":"http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
+
+
+
+
+  }, {
+                    "name": "CINEMAX ENGLISH 1",
+            "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png",
+  "url":"http://23.237.104.106:8080/USA_CINEMAX/index.m3u8",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+        
+          
+
+  }, {
+                    "name": "HBO ENGLISH",
+                   "image": "https://btv.mx/posters/1724852501490.png",
+  "url":"http://23.237.104.106:8080/USA_HBO2/index.m3u8",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+ 
+
+ }, {
+                    "name": "FXX",
+                   "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",
+  "url":"http://23.237.104.106:8080/USA_FXX/index.m3u8",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
+ 
+ }, {
+                    "name": "SHOW TIME MOVIES",
+                   "image": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png",
+  "url":"http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
+
+  }, {
+                    "name": "HBO FAMILY",
+                   "image": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
+  "url":"http://23.237.104.106:8080/USA_HBO/index.m3u8",
+             "referer":"https://thetvapp.to/player/v/8.36.4/jwplayer.js"
+
+
+ }, {
+
+                  "name": "BOOMERANG",
+                      "image": "https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300",
+                  "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+
+
+
+
+
+ }, {
+
+                  "name": "DISNEY XD",
+                      "image": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png",
+                         "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+"userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+
+
+
+
+ 
+
+ }, {
+
+                  "name": "COW BOYS USA",
+                      "image": "https://btv.mx/posters/1721524358307.png",
+               "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+              "userAgent":"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+
+
+
+ }, {
+
+                  "name": "UFC TUBI",
+                      "image": "https://stmify.com/wp-content/uploads/2025/11/634-s.webp",
+                        "url": "https://cdn.stmify.com/tubi/embed/ufc",
+"referer":"https://cdn.stmify.com/tubi/live-tv/ufc",
+"embed":true
+
+
+
+
+
+
+      }
+         ]
+      }
+   ],
+   "stations": [
+      {
+                     "name": "CINE CASA 1",
+                      "image": "https://www.cnet.com/a/img/resize/06f9991da87e503e9a6a36c82239fc0db8d395fa/hub/2024/02/27/20f937a5-309e-487d-bab7-64aa81d5636c/tubi-logo-2024.jpg?auto=webp&fit=crop&height=675&width=1200",
+                    "url": "https://tubitv.com/espanol",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+"embed":true
+
+
+
+
+
+
+
+
+        }
+ 
+       
+      ]
+   
+    }
+ 
+  ]
+}
